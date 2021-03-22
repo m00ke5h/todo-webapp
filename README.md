@@ -1,5 +1,5 @@
-ToDo WebApp
+# ToDo WebApp
 
-- A minimal and simple ToDo app with update and completion features.
+- A minimal and simple ToDo webapp with update and completion features.
 
-Check it out - https://todo-marshh.herokuapp.com/
+Check it out @ - https://todo-marshh.herokuapp.com/
